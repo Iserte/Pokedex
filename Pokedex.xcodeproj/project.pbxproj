@@ -12,6 +12,7 @@
 		EBE617CE1EF50E6C000ACDB7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBE617CC1EF50E6C000ACDB7 /* Main.storyboard */; };
 		EBE617D01EF50E6C000ACDB7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EBE617CF1EF50E6C000ACDB7 /* Assets.xcassets */; };
 		EBE617D31EF50E6C000ACDB7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBE617D11EF50E6C000ACDB7 /* LaunchScreen.storyboard */; };
+		EBE617DB1EF51074000ACDB7 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = EBE617DA1EF51074000ACDB7 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EBE617CF1EF50E6C000ACDB7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EBE617D21EF50E6C000ACDB7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EBE617D41EF50E6C000ACDB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EBE617DA1EF51074000ACDB7 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				EBE617CA1EF50E6C000ACDB7 /* ViewController.swift */,
 				EBE617CC1EF50E6C000ACDB7 /* Main.storyboard */,
 				EBE617CF1EF50E6C000ACDB7 /* Assets.xcassets */,
+				EBE617DA1EF51074000ACDB7 /* pokemon.csv */,
 				EBE617D11EF50E6C000ACDB7 /* LaunchScreen.storyboard */,
 				EBE617D41EF50E6C000ACDB7 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				EBE617D31EF50E6C000ACDB7 /* LaunchScreen.storyboard in Resources */,
 				EBE617D01EF50E6C000ACDB7 /* Assets.xcassets in Resources */,
+				EBE617DB1EF51074000ACDB7 /* pokemon.csv in Resources */,
 				EBE617CE1EF50E6C000ACDB7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -304,6 +308,7 @@
 				EBE617D91EF50E6C000ACDB7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
